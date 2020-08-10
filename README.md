@@ -8,3 +8,9 @@ Minha principal motivação foi a familiaridade que todos possuem com a identida
 - CSS3  
 
 **3. Tutorial**  
+O jogo se encontra hospedado online e possui uma jogabilidade simples.
+![cenário do jogo](https://i.ibb.co/yYmfL5X/cenario.png)   
+**3.1 Movimentação vertical**  
+Diferentemente do jogo original, é possível se mover para os dois sentidos verticais (cima e baixo) utilizando as setas PageUp (voar pra cima) e PageDown (voar pra baixo). Ao voar pra cima, o personagem sobe 200 pixels na tela e ao mergulhar pra baixo ele desce 60 pixels, dando maior controle sobre a decida comparado a subida  
+**3.2 Colisão**  
+O jogo encerra quando o personagem colidir com qualquer um dos canos na frente dele, assim mostrando a tela de fim de jogo. Mais uma diferença entre esse jogo e o original, é o fato de que não há colisão com o chão e nem com o céu (no jogo original se o personagem encostasse no chão, era detectado colisão). 

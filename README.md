@@ -16,4 +16,8 @@ Diferentemente do jogo original, é possível se mover para os dois sentidos ver
 O jogo encerra quando o personagem colidir com qualquer um dos canos na frente dele, assim mostrando a tela de fim de jogo. Mais uma diferença entre esse jogo e o original, é o fato de que não há colisão com o chão e nem com o céu (no jogo original se o personagem encostasse no chão, era detectado colisão).   
 **3.3 Tela de fim de jogo**  
 Quando for detectado qualquer colisão, o jogo automaticamente é encerrado e é apresentado ao jogador uma tela de “Game Over”. A tela de encerramento é uma clara referência à tela apresentada quando um jogador morre no jogo Grand Theft Auto V, tornando-se bem diferente do Flapp Bird original nesse aspecto. É possível visualizar a pontuação e reiniciar o jogo apenas apertando a barra de espaço.
-![tela de encerramento](https://i.ibb.co/yh5kpPw/termino.png)  
+![tela de encerramento](https://i.ibb.co/yh5kpPw/termino.png)   
+**4. Diagrama do jogo**  
+ Abaixo um diagrama bem simples, que tem como objetivo explicar algumas questões do jogo com uma melhor representação visual. Além disso, deixa mais claro a jogabilidade, movimentação e lógica de construção do cenário.
+![diagrama](https://i.ibb.co/HDTkdcG/flapp-bird-diagrama.jpg)  
+
